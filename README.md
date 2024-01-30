@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-A second-year M.Eng student at NUAA.
+👋A second-year M.Eng student at NUAA.
 
 - ⚡ I’m currently working on multi-modal learning, brain decoding, and affective computing.
 
